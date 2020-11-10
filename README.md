@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I am a second-year (2019-Now) Ph.D. student 
-- 🌱 I am major in Computer Science and Engineering at the University of Notre Dame
-- 👯 I am advised by Prof. [Meng Jiang](http://www.meng-jiang.com/)
-- 🤔 My research interest lies in natural lanuage generation (NLG)
-- 💬 Ask me about ...
-- 📫 How to reach me: wyu1@nd.edu
+- 🔭 I am Wenhao Yu, a second-year (2019-Now) Ph.D. student advised by [Prof. Meng Jiang](http://www.meng-jiang.com/)
+- 🌱 I am major in Computer Science and Engineering (CSE) at the University of Notre Dame 
+- 🤔 My research interest lies in information retrieval (IR) and natural lanuage generation (NLG)
+
+- 👯 We released a 44-page survey of **knowledge-enhanced text generation** on arXiv. Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading) with code and data collections (**180+** stars on Github)
