@@ -5,4 +5,5 @@
 - 🤔 My research interest lies in information retrieval (IR) and natural lanuage generation (NLG).
 
 - 👯 <font color='red'> We recently released a 44-page survey of **knowledge-enhanced text generation** on arXiv.</font> Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading) with code and data collections (**180+** stars on Github). Suggestions and comments are higly appreciated!
-<font color='red'>test blue color font</font>
+
+- This is <span style="color: red">written in red</span>.
